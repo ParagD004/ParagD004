@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 - 💻 Software Developer with a love for clean, efficient code
 - 🌱 I’m currently learning GenAI and Machine Learning
-- 👯 I’m looking to collaborate on GenAi and ML projects
+- 👯 I’m looking to collaborate on GenAI and ML projects
 - 🎯 Focused on creating meaningful projects that solve real problems
 - 📫 Reach me at: [paragdharmik004@gmail.com]
 
