@@ -64,6 +64,25 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 - ⚡ I debug with console.log() and I'm not ashamed
 - 🎮 When not coding, you'll find me gaming or exploring new tech
 
+## Here are some Random Parrots:
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="480" />
+<div>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/darkmodeparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/loveparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/evilparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/angelparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/ultrafastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/aussiecongaparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/reverseportalblueparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/biparrot.gif" width="36" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/vacationparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/luckyparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/rotatingparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/bunnyparrot.gif" width="30" height="30"/>
+</div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="480" />
 ---
 
 ⭐️ From [Parag](https://github.com/ParagD004)
